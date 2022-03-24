@@ -1,5 +1,4 @@
 # TheChars74KClassifier
-Ass for USYD
 
 ## CONTENTS
 -  [1. Introduction](#1)
